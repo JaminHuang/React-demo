@@ -11,8 +11,7 @@ class Change extends Component {
 
     render() {
         return (
-            <div>
-
+            <div>小测试
             </div>)
     }
 }
